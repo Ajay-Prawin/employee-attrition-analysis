@@ -1,0 +1,19 @@
+Job_Role,Attrition,Count
+"Sales Executive",Yes,57
+"Research Scientist",No,245
+"Laboratory Technician",Yes,62
+"Laboratory Technician",No,197
+"Manufacturing Director",No,135
+"Healthcare Representative",No,122
+Manager,No,97
+"Sales Representative",Yes,33
+"Research Director",No,78
+"Research Scientist",Yes,47
+"Sales Executive",No,269
+"Sales Representative",No,50
+"Research Director",Yes,2
+"Human Resources",No,40
+"Human Resources",Yes,12
+"Healthcare Representative",Yes,9
+"Manufacturing Director",Yes,10
+Manager,Yes,5
